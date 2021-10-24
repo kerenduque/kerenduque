@@ -2,7 +2,7 @@
 - 👀 Interested in AI, fintech, and startups in Southeast Asia!
 - 🌱 I’m currently studying Data Science and Computer Science at UC Berkeley. 
 - 🇵🇭 Originally from a small town in the Philippines. 
-- 📫 Feel free to check my website at [kerenduque.me](kerenduque.me) and email me through kerenduque@berkeley.edu. 
+- 📫 Feel free to check my website at [kerenduque.me](kerenduque.me) or send me an email at kerenduque@berkeley.edu. 
 
 <!---
 kerenduque/kerenduque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
